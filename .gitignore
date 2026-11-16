@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+coverage/
+outputs/
+
+# LangGraph API
+.langgraph_api
+
+storage/
+
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+coverage/
+storage/
